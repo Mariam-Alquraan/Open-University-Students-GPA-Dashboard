@@ -1,4 +1,4 @@
-# README: Open University Students GPA Dashboard
+# Open University Students GPA Dashboard
 
 ## **Overview**
 This project involves analyzing the academic performance of Open University students using an Excel dataset and creating an interactive dashboard in Tableau. The dashboard provides insights into students' GPAs, and course performance.
