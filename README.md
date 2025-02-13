@@ -33,7 +33,7 @@ The dataset includes the following key fields:
 - The dataset was cleaned and prepared in **Excel**:
   - Removed duplicates and missing values.
   - Standardized column names and formats.
-  - Calculated additional metrics (e.g., GPA categories: High, Medium, Low).
+  - And more...
 
 ### **2. Dashboard Creation in Tableau**
 - The cleaned dataset was imported into **Tableau**.
@@ -54,3 +54,4 @@ The dataset includes the following key fields:
 - `OULA_Answers.xlsx`: The cleaned dataset used for analysis.
 - `OULA.xlsx`: The origin dataset used for analysis.
 - `README.md`: This file, providing an overview of the project.
+-  Screenshots of the Dashboard
